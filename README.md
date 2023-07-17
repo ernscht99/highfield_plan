@@ -1,5 +1,11 @@
 # Highfield Festival Plan
 
-Hier kommt alles rein, was wir für die Planung brauchen!
 ## Timetable
 ![Timetable](timetable.png)
+
+## Offizielle Infos
+- [Anreise](official_infos/anreise.md)
+- [Camping](official_infos/camping.md)
+- [Feiern und Konzerte](official_infos/feiern.md)
+- [Sicherheit](official_infos/sicherheit.md)
+- [Barrierefreiheit](official_infos/barrierefreiheit.md)
