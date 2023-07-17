@@ -1,4 +1,5 @@
 # Highfield Festival Plan
+[Packliste](packliste.md)
 
 ## Timetable
 ![Timetable](timetable.png)
