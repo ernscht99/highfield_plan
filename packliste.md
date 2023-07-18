@@ -2,3 +2,9 @@
 - Panzertape
 - Sonnencreme
 - Trichter
+- Aspirin
+- Vitamintabletten
+- Wasserkanister
+- Gaskocher
+- Instantkaffee
+- Plastiktüten
