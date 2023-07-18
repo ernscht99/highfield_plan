@@ -17,6 +17,7 @@
 - Topf + Besteck
 - Lappen + Spüli
 - Salz (vorzugsweise Mozzarella) + Pfeffer
+- Bluetoothbox
 
 # Jeder/Persönlich:
 - Sonnencreme
