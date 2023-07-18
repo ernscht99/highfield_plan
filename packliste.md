@@ -2,14 +2,14 @@
 
 # Als Gruppe. Die Person die das mitnimmt in () dahinter
 - Panzertape
-- Trichter
+- Trichter (Felix)
 - Aspirin
 - Vitamintabletten (Philipp)
 - Wasserkanister
 - Gaskocher (Philipp schaut Zuhause nach)
 - Gaskartusche (Philipp schaut Zuhause nach)
-- Instantkaffee
-- Plastiktüten
+- Instantkaffee (Felix)
+- Plastiktüten (Felix)
 - Klopapier
 - Tupperboxen
 - Sonnensegel + Stäbe (Hat jemand noch n Segel)
