@@ -36,6 +36,7 @@
 - Trinkschlauch
 - Gummistiefel
 - Ohrschutz
+- Halstuch
   
 
 ## Verzehrgut
