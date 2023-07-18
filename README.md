@@ -1,5 +1,6 @@
 # Highfield Festival Plan
 [Packliste](packliste.md)
+[Spotify Playlist](https://open.spotify.com/playlist/0nI0HstyYUVAuCEkrM48SJ?si=e8ee5c4b054d43a2&pt=19cd9d69f6242d94ed7910195a3abdea)
 
 ## Timetable
 ![Timetable](timetable.png)
