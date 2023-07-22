@@ -11,12 +11,13 @@
 - Plastiktüten (Felix)
 - Klopapier
 - Tupperboxen
-- Sonnensegel + Stäbe (Hat jemand noch n Segel)
+- Sonnensegel + Stäbe (Hat jemand noch n Segel (Geht einfach ne plane?))
 - Zelt
 - Topf + Besteck
 - Lappen + Spüli
 - Salz (vorzugsweise Mozzarella) + Pfeffer
 - Bluetoothbox
+- Bollerwagen?
 
 ## Jeder/Persönlich:
 - Sonnencreme
@@ -43,9 +44,11 @@
 - 1 Palette Spezies
 - X Mischen in Palstikflaschen
 - Brot + Aufstrich (darf mit tupper aufs infield)
+- Dosenessen
 
 
 ## Questions
 - Man kann sich Stromaggregate mieten wollen wir das machen? 90€ unlimitiert Menge 15-20€ Person
 - Dann hätte man ne aktive Kühlbox für Essen und Getränke
-  
+- Grill mitnehmen?
+- Tisch?
